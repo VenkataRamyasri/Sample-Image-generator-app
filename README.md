@@ -1,12 +1,6 @@
----
-title: Image Generator App
-emoji: 🖼
-colorFrom: purple
-colorTo: red
-sdk: gradio
-sdk_version: 5.44.0
-app_file: app.py
-pinned: false
----
+# Image Generator App
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+🔗 **Live Demo:**  
+https://huggingface.co/spaces/Parvathaneni/Image-generator-app
+
+This is an image generator application built using **Gradio** and hosted on **Hugging Face Spaces**.
